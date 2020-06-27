@@ -1,16 +1,16 @@
 # Leche de Tigre
 
-- 60 gramos de zumo de limón
-- 60 gramos de zumo de lima
-- 60 gramos de filete de merluza sin piel ni espinas
+- 60 gramos de zumo de limón (Lemon Juice)
+- 60 gramos de zumo de lima (lime juice)
+- 60 gramos de filete de merluza sin piel ni espinas (Sea Bass)
 - ~~20 gramos de gambas peladas~~
 - ~~60 gramos de fumet~~
-- 12-15 gramos de apio
-- 25 gramos de cebolla morada
-- 7 gramos de sal
-- 25 gramos de hielo picado
-- 8 gramos de ají limo (o la cantidad al gusto de guindilla)
-- 3 gramos de cilantro fresco.
+- 12-15 gramos de apio (Celery)
+- 25 gramos de cebolla morada (Red Onion)
+- 7 gramos de sal (Salt)
+- 25 gramos de hielo picado (Ice)
+- 8 gramos de ají limo (o la cantidad al gusto de guindilla) (Mild Chilly Pepper)
+- 3 gramos de cilantro fresco. (Coriander)
 
 ## Conversion Table
 
